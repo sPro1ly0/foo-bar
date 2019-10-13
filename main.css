@@ -1,3 +1,14 @@
 p {
-    color: red;
+    color: white;
+}
+
+body { 
+    background-color: #aab2ed;
+}
+
+hr {
+    border: none;
+    border-color: white;
+    border-top: 8px dotted grey;
+    width: 25%;
 }
